@@ -1,8 +1,7 @@
-# CLASS
+## CLASS
 
 This repository contains materials that i have used for the class
 
-## Learning Path
 1. `Python.ipynb`: Python fundamentals  
 2. `pandas_0.ipynb`: Data manipulation with Pandas  
 3. `matplotlib_seaborn_1.ipynb`: Data visualization  
@@ -11,9 +10,6 @@ This repository contains materials that i have used for the class
 
 > ********Note********: The numbers in filenames suggest a recommended learning order, but feel free to explore based on your interest
 > 
-## Supplementary Files
-- `Laptop_Price.csv`: Dataset used in exercises
-- `README.md`: This guide
 
 ## Usage
 ```bash
